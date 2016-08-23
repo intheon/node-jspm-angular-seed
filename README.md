@@ -3,5 +3,5 @@
 ## install
 
 - clone this repo
-- npm install
-- jspm install
+- `npm install`
+- `jspm install`
